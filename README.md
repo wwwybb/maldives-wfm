@@ -1,4 +1,4 @@
-# Maldives WFM iOS APP分发渠道
+# Maldives WFM iOS以及安卓 APP分发渠道
 
 [![pages-build-deployment](https://github.com/wwwybb/maldives-wfm/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/wwwybb/maldives-wfm/actions/workflows/pages/pages-build-deployment)
 
